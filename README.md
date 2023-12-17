@@ -1,8 +1,28 @@
-# React + Vite
+# datepicker-react-app
+How to implement a date picker in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Documentation
 
-Currently, two official plugins are available:
+[https://www.cluemediator.com/how-to-implement-a-date-picker-in-react](https://www.cluemediator.com/how-to-implement-a-date-picker-in-react)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Quick Start
+
+Follow the below steps to run the project.
+
+1. Clone repository
+2. Run `npm i` command to install dependencies
+3. Execute `npm run dev` command to run the project
+
+## Output
+
+[![React Example](https://www.cluemediator.com/wp-content/uploads/2023/12/output-how-to-implement-a-date-picker-in-react-clue-mediator.gif)](https://www.cluemediator.com/how-to-implement-a-date-picker-in-react)
+
+**Follow us on [GitHub](https://github.com/cluemediator) for more update.**
+
+## Connect with us
+
+Website: [Clue Mediator](https://www.cluemediator.com)  
+Like us on [Facebook](https://www.facebook.com/thecluemediator)  
+Follow us on [Twitter](https://twitter.com/cluemediator)  
+Join us on [Telegram](https://t.me/cluemediator)  
+Subscribe us on [YouTube](https://www.youtube.com/ClueMediator)
